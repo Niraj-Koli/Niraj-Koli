@@ -1,16 +1,16 @@
-<h1 align="center">Yo 👋, I'm Niraj Koli</h1>
+<h1 align="left">Yo 👋, I'm Niraj Koli</h1>
 
 ###
 
-<p align="center">A Passionate Full-Stack Developer From India</p>
+<p align="left">A Passionate Full-Stack Developer From India</p>
 
 ###
 
-<h3 align="center">Tools & Techniques</h3>
+<h3 align="left">Tools & Techniques</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
@@ -29,11 +29,11 @@
 
 ###
 
-<h3 align="center">Socials</h3>
+<h3 align="left">Socials</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/niraj-koli-a93724201/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -47,8 +47,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=Niraj-Koli" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Niraj-Koli" height="150" alt="languages graph"  />
 </div>
 
 ###
