@@ -1,8 +1,8 @@
-<h1 align="left">Yo 👋, I'm Niraj Koli</h1>
+<h1 align="center">Yo 👋, I'm Niraj Koli</h1>
 
 ###
 
-<p align="left">A Passionate Full-Stack Developer From India</p>
+<p align="center">A Passionate Full-Stack Developer From India</p>
 
 ###
 
