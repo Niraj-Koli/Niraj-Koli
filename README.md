@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Passionate Full-Stack Developer From India</p>
+<p align="left">A Passionate FullStack Developer Creating Things To Smile :)</p>
 
 ###
 
