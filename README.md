@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">A Passionate FullStack Developer Creating Things To Smile :)</p>
-
-###
-
 <h2 align="left">Skills and Tools</h2>
 
 ###
