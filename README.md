@@ -8,22 +8,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,django,docker,express,figma,firebase,git,github,java,js,jquery,kubernetes,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,py,react,redux,regex,tailwind,ts,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=ansible,apollo,aws,bash,bootstrap,cassandra,css,d3,docker,elasticsearch,express,git,github,go,graphql,html,java,js,jenkins,jquery,kubernetes,linux,materialui,mongodb,nextjs,nodejs,postgres,postman,py,react,redis,redux,remix,sass,tailwind,terraform,ts,vite,vscode" />
   </a>
 </p>
 
 ###
-
-<h2 align="left">Socials</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/niraj-koli/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Niraj_Koli_10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
 
 <h2 align="left">Stats</h2>
 
