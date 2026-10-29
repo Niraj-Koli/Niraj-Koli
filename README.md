@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · Backend & AI/ML</b><br>
-  I build high-volume, event-driven systems for the National Stock Exchange of India, and AI systems that detect, reason and act.
+  I build scalable, optimized, high-volume event-driven systems, and AI systems that detect, reason and act.
 </p>
 
 <p align="center">
